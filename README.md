@@ -1,3 +1,2 @@
 # Data-science
-## codes
-# python library (pandas)
+## python library (pandas) and framework
